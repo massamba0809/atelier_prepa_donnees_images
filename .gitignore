@@ -1,0 +1,6 @@
+# Les images brutes ne sont pas versionnées (poids), seule l'arborescence l'est via .gitkeep
+data/raw/*/*
+!data/raw/*/.gitkeep
+data/cleaned/*/*
+!data/cleaned/*/.gitkeep
+.idea/
